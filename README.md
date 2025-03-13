@@ -7,7 +7,7 @@
     ```
 2. Conversión de la clave privada EC a formato PKCS#8
     ```bash
-    openssl pkcs8 -topk8 -inform PEM -outform PEM -in ec-raw.pem -nocrypt -out      llavePrivada.p8
+    openssl pkcs8 -topk8 -inform PEM -outform PEM -in ec-raw.pem -nocrypt -out llavePrivada.p8
     ```
 3. Generación de la clave pública EC a partir de la clave privada
     ```bash
