@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "sign": "node cose_sign.js",
+    "verify": "node cose_verify.js"
+  },
+  "dependencies": {
+    "@fidm/x509": "^1.2.1",
+    "base45-js": "^1.0.2",
+    "cose-js": "^0.9.0",
+    "pako": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/cose-js": "^0.8.3",
+    "@types/pako": "^2.0.3"
+  }
+}

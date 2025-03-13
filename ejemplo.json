@@ -1,0 +1,14 @@
+{
+  "numeroIdentificacion": "1111111",
+  "emisor": "AGETIC",
+  "tipo": "CERTIFICADO",
+  "titulares": [
+    {
+      "nombreTitular": "Juan Perez Ratón",
+      "tipoDocumento": "CI",
+      "documento": "123124214"
+    }
+  ],
+  "fechaEmision": "2024-09-26",
+  "fechaExpiracion": "2025-09-26"
+}
